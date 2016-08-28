@@ -1,6 +1,7 @@
 // FixDebugSix4.java
 // Displays 5 random numbers between
 // (and including) user-specified values
+package DebuggingExercises;
 import java.util.Scanner;
 public class DebugSix4
 {

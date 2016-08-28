@@ -1,6 +1,7 @@
 // DebugSix2.java
 // Display every character between Unicode 65 and 122
 // Start new line after 20 characters
+package DebuggingExercises;
 public class DebugSix2
 {
    public static void main(String args[])

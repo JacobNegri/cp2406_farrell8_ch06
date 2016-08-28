@@ -2,6 +2,7 @@
 // Start with a penny
 // double it every day
 //how much do you have in a 30-day month?
+package DebuggingExercises;
 public class DebugSix1
 {
    public static void main(String args[])
